@@ -44,7 +44,7 @@ AUTHORS
 **Dave Gamache**
 
 + http://twitter.com/dhg
-+ http://github.com/dhgamache
++ http://github.com/dhg
 
 
 Copyright and License
