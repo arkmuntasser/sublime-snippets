@@ -1,0 +1,4 @@
+<snippet>
+  <content><![CDATA[<img sizes="${1:100vw}" srcset="${2:xs.jpg 480w}, ${3:sm.jpg 767w}, ${4:md.jpg 1024w}, ${5:lg.jpg 1600w}" src="${6:xs.jpg}" alt="$7"/>]]></content>
+  <tabTrigger>responsiveimg</tabTrigger>
+</snippet>

@@ -1,0 +1,25 @@
+<snippet>
+  <content><![CDATA[<ul class="accordion" data-accordion>
+  <li class="accordion-navigation">
+    <a href="#${1:panel1a}">Accordion 1</a>
+    <div id="${1:panel1a}" class="content active">
+      Panel 1. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    </div>
+  </li>
+  <li class="accordion-navigation">
+    <a href="#${2:panel2a}">Accordion 2</a>
+    <div id="${2:panel2a}" class="content">
+      Panel 2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    </div>
+  </li>
+  <li class="accordion-navigation">
+    <a href="#${3:panel3a}">Accordion 3</a>
+    <div id="${3:panel3a}" class="content">
+      Panel 3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    </div>
+  </li>
+</ul>]]></content>
+  <tabTrigger>faccordion</tabTrigger>
+  <scope>text.html</scope>
+  <description>Foundation 5 accordion</description>
+</snippet>

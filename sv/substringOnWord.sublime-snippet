@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[{{~plugins.stringLib.substringOnWord(${1:text}, ${2:limit}${3:, { ellipsis : true }})}}]]></content>
+  <tabTrigger>svsubstring</tabTrigger>
+  <scope>text.html</scope>
+  <description>SV StringLib substringOnWord()</description>
+</snippet>

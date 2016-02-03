@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[{{${1:date}.format("${2:D|M|Y|MMM D|MMM D YYYY|LL}")}}]]></content>
+  <tabTrigger>svformat</tabTrigger>
+  <scope>text.html</scope>
+  <description>SV Moment format()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[{{asset.resource.getThumbnailUrl({ height : ${1:600}, width : ${2:800}, crop : '${3:fill}', quality : ${4:65} })}}]]></content>
+  <tabTrigger>svgetthumbnailurl</tabTrigger>
+  <scope>text.html</scope>
+  <description>SV Cloudinary getThumbnailUrl()</description>
+</snippet>

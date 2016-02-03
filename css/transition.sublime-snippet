@@ -1,8 +1,7 @@
 <snippet>
   <content><![CDATA[
--webkit-transition: ${1:all} ${2:.2s} ${3:ease-in-out};
-   -moz-transition: ${1:all} ${2:.2s} ${3:ease-in-out};
-        transition: ${1:all} ${2:.2s} ${3:ease-in-out};
+-webkit-transition: ${1:all} ${2:.3s} ${3:ease-in-out};
+        transition: ${1:all} ${2:.3s} ${3:ease-in-out};
     ]]>
   </content>
   <tabTrigger>transition</tabTrigger>

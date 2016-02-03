@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[{{~plugins.stringLib.stripHtml(${1:string})}}]]></content>
+  <tabTrigger>svstriphtml</tabTrigger>
+  <scope>text.html</scope>
+  <description>SV StringLib stripHtml()</description>
+</snippet>

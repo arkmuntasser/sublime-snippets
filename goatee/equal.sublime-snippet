@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[{{${1::|!}~equal(${2:var1}, ${3:var2})}}]]></content>
+  <tabTrigger>gtequal</tabTrigger>
+  <scope>text.html</scope>
+  <description>Goatee ~equal()</description>
+</snippet>

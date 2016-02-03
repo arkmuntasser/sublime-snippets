@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-text-shadow: ${1:0 1px 0 rgba(255,255,255,.75)};
+text-shadow: ${1:1px} ${2:1px} ${3:0} ${4:rgba(255,255,255,.75)};
 ]]></content>
   <tabTrigger>text-shadow</tabTrigger>
   <scope>source.css</scope>

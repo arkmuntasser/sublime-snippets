@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[{{~plugins.stringLib.formatCityZip({ city : ${1:city}, state : ${2:state}, zip : ${3:zip} })}}]]></content>
+  <tabTrigger>svformatcityzip</tabTrigger>
+  <scope>text.html</scope>
+  <description>SV StringLib formatCityZip()</description>
+</snippet>

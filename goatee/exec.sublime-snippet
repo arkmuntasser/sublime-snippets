@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[{{~exec(${1:expression or function})}}]]></content>
+  <tabTrigger>gtexec</tabTrigger>
+  <scope>text.html</scope>
+  <description>Goatee ~exec()</description>
+</snippet>

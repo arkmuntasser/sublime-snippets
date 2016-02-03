@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[{{:${1:if}}}
+  <!-- if -->
+{{?:${2:else if}}}
+  <!-- else if -->
+{{?}}
+  <!-- else -->
+{{/}}]]></content>
+  <tabTrigger>gtif</tabTrigger>
+  <scope>text.html</scope>
+  <description>Goatee if/else if/else</description>
+</snippet>
