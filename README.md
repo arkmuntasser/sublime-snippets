@@ -15,7 +15,7 @@ Navigate to your Sublime Text 2 user packages directory:
 
 And clone the repo to a new directory right then and there:
 
-    git clone git@github.com:mdo/sublime-snippets.git
+    git clone git@github.com:arkmuntasser/sublime-snippets.git
 
 
 ###Manually
@@ -30,7 +30,7 @@ Bugs & Additions
 
 Have a bug or want to add something? Please create an issue or a pull request right here.
 
-https://github.com/mdo/sublime-snippets
+https://github.com/arkmuntasser/sublime-snippets
 
 
 AUTHORS
