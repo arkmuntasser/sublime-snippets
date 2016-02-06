@@ -1,7 +1,7 @@
-Custom Sublime Text 2 Snippets
+Custom Sublime Text Snippets
 ==============================
 
-Sublime Text 2 is awesome. We think it can be made mo' awesome by adding some custom snippets, hence this little library.
+Sublime Text is awesome. We think it can be made mo' awesome by adding some custom snippets, hence this little library.
 
 
 Installing
@@ -9,7 +9,7 @@ Installing
 
 ###With Git
 
-Navigate to your Sublime Text 2 user packages directory:
+Navigate to your Sublime Text user packages directory:
 
     cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/
 
@@ -25,6 +25,63 @@ And clone the repo to a new directory right then and there:
 * Copy the folder to your Sublime Text 2 user packagers directory (`~/Library/Application Support/Sublime Text 2/Packages/User/)
 
 
+###Supported Sublime Text Version
+
+* Sublime Text 2
+* Sublime Text 3
+
+
+What's Included
+---------------
+
+###CSS
+
+* animation
+* background-clip
+* border-radius
+* box-shadow
+* columns
+* grandient (horizontal/vertical)
+* opacity
+* text-shadow
+* transition
+* translate
+
+
+###HTML
+
+* table
+* responsive images
+
+
+###Foundation 5
+
+* accordion
+* tabs
+
+
+###Goatee
+
+* contains
+* equal
+* exec
+* ifelse
+* partial
+* setVar
+* slice
+
+
+###SV Plugins
+
+* format
+* formatCityZip
+* formatLineBreaks
+* getThumbnailUrl
+* htmlSubstring
+* stripHtml
+* substringOnWord
+
+
 Bugs & Additions
 ----------------
 
@@ -33,7 +90,7 @@ Have a bug or want to add something? Please create an issue or a pull request ri
 https://github.com/arkmuntasser/sublime-snippets
 
 
-AUTHORS
+Authors
 -------
 
 **Mark Otto**
@@ -45,6 +102,11 @@ AUTHORS
 
 + http://twitter.com/dhg
 + http://github.com/dhg
+
+**Amir R Muntasser**
+
++ http://twitter.com/arkmuntasser
++ http://github.com/arkmuntasser
 
 
 Copyright and License
