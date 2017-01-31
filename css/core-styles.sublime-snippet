@@ -70,7 +70,7 @@ h6 > a {
 /*---------------------------END CORE STYLES---------------------------*/
 ]]>
   </content>
-  <tabTrigger>core styles</tabTrigger>
+  <tabTrigger>cstyles</tabTrigger>
   <scope>source.css</scope>
   <description>Core Styles</description>
 </snippet>
