@@ -1,0 +1,76 @@
+<snippet>
+  <content><![CDATA[
+/*---------------------------CORE STYLES---------------------------*/
+
+.core-styles h1,
+.contentRender_name_plugins_core_textbox h1 {
+
+}
+
+.core-styles h2,
+.contentRender_name_plugins_core_textbox h2 {
+
+}
+
+.core-styles h3,
+.contentRender_name_plugins_core_textbox h3 {
+
+}
+
+.core-styles h4,
+.contentRender_name_plugins_core_textbox h4 {
+
+}
+
+.core-styles h5,
+.contentRender_name_plugins_core_textbox h5 {
+
+}
+
+.core-styles h6,
+.contentRender_name_plugins_core_textbox h6 {
+
+}
+
+.core-styles p,
+.contentRender_name_plugins_core_textbox p {
+
+}
+
+.core-styles a,
+.contentRender_name_plugins_core_textbox a {
+
+}
+
+.core-styles ul:not([class*="block-grid-"]) li,
+.core-styles ol:not([class*="block-grid-"]) li,
+.contentRender_name_plugins_core_textbox ul:not([class*="block-grid-"]) li,
+.contentRender_name_plugins_core_textbox ol:not([class*="block-grid-"]) li {
+
+}
+
+.core-styles td,
+.contentRender_name_plugins_core_textbox td,
+.core-styles tr,
+.contentRender_name_plugins_core_textbox tr {
+
+}
+
+h1 > a,
+h2 > a,
+h3 > a,
+h4 > a,
+h5 > a,
+h6 > a {
+  font: inherit;
+  color: inherit;
+  text-decoration: none;
+}
+
+/*---------------------------END CORE STYLES---------------------------*/
+]]>
+  </content>
+  <tabTrigger>core styles</tabTrigger>
+  <scope>source.css</scope>
+  <description>Core Styles</description>
+</snippet>
